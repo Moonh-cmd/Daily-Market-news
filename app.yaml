@@ -1,0 +1,2 @@
+runtime: python314
+entrypoint: functions-framework --target=generate_market_brief_http --debug
